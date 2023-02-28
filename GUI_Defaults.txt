@@ -1,0 +1,9 @@
+num_locations:16
+num_vehicles:4
+screen_width:550
+screen_height:550
+pso_population:25
+pso_iterations:250
+use_google_test_data:True
+use_route_stepping:True
+use_package_list:True
